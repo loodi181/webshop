@@ -1,0 +1,17 @@
+
+.offcanvas-body a,
+.offcanvas-title {
+  color: $textColor !important;
+}
+.offcanvas-body a:hover {
+  color: $hoverColor !important;
+  transition: 0.5s ease-in-out;
+}
+
+.dropdown-menu {
+  background-color: $bgColor !important;
+}
+
+.offcanvas {
+  background-color: $bgColor !important;
+}
